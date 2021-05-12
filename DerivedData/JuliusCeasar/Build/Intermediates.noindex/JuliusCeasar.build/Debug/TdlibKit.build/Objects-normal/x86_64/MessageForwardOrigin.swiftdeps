@@ -1,0 +1,305 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MessageForwardOrigin"
+- "MessageForwardOriginUser"
+- "MessageForwardOriginChat"
+- "MessageForwardOriginHiddenUser"
+- "MessageForwardOriginChannel"
+provides-nominal:
+- "8TdlibKit20MessageForwardOriginO"
+- "8TdlibKit24MessageForwardOriginUserV"
+- "8TdlibKit24MessageForwardOriginChatV"
+- "8TdlibKit30MessageForwardOriginHiddenUserV"
+- "8TdlibKit27MessageForwardOriginChannelV"
+provides-member:
+- ["8TdlibKit20MessageForwardOriginO", ""]
+- ["8TdlibKit24MessageForwardOriginUserV", ""]
+- ["8TdlibKit24MessageForwardOriginChatV", ""]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", ""]
+- ["8TdlibKit27MessageForwardOriginChannelV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Codable"
+- "Decoder"
+- !private "DtoCodingKeys"
+- "Encoder"
+- !private "FloatLiteralType"
+- "Int"
+- "Int64"
+- !private "IntegerLiteralType"
+- !private "Kind"
+- "MessageForwardOrigin"
+- "MessageForwardOriginChannel"
+- "MessageForwardOriginChat"
+- "MessageForwardOriginHiddenUser"
+- "MessageForwardOriginUser"
+- "String"
+- "StringLiteralType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["s9CodingKeyP", "type"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- ["Se", "=="]
+- ["Se", "Default_RawValue"]
+- !private ["Se", "DtoCodingKeys"]
+- !private ["Se", "Kind"]
+- !private ["Se", "MessageForwardOriginChannel"]
+- !private ["Se", "MessageForwardOriginChat"]
+- !private ["Se", "MessageForwardOriginHiddenUser"]
+- !private ["Se", "MessageForwardOriginUser"]
+- ["Se", "RawValue"]
+- ["Se", ""]
+- ["Se", "_Default_RawValue"]
+- !private ["Se", "_findStringSwitchCase"]
+- ["Se", "_rawHashValue"]
+- !private ["Se", "authorSignature"]
+- !private ["Se", "chatId"]
+- ["Se", "encode"]
+- !private ["Se", "findStringSwitchCase"]
+- ["Se", "hash"]
+- ["Se", "hashValue"]
+- ["Se", "init"]
+- ["Se", "messageForwardOriginChannel"]
+- ["Se", "messageForwardOriginChat"]
+- ["Se", "messageForwardOriginHiddenUser"]
+- ["Se", "messageForwardOriginUser"]
+- !private ["Se", "messageId"]
+- ["Se", "rawValue"]
+- !private ["Se", "senderChatId"]
+- !private ["Se", "senderName"]
+- !private ["Se", "senderUserId"]
+- !private ["s7DecoderP", "container"]
+- !private ["8TdlibKit13DtoCodingKeysO", ""]
+- !private ["8TdlibKit13DtoCodingKeysO", "type"]
+- ["SE", "=="]
+- ["SE", "Default_RawValue"]
+- !private ["SE", "DtoCodingKeys"]
+- !private ["SE", "Kind"]
+- !private ["SE", "MessageForwardOriginChannel"]
+- !private ["SE", "MessageForwardOriginChat"]
+- !private ["SE", "MessageForwardOriginHiddenUser"]
+- !private ["SE", "MessageForwardOriginUser"]
+- ["SE", "RawValue"]
+- ["SE", ""]
+- ["SE", "_Default_RawValue"]
+- !private ["SE", "_findStringSwitchCase"]
+- ["SE", "_rawHashValue"]
+- !private ["SE", "authorSignature"]
+- !private ["SE", "chatId"]
+- ["SE", "encode"]
+- !private ["SE", "findStringSwitchCase"]
+- ["SE", "hash"]
+- ["SE", "hashValue"]
+- ["SE", "init"]
+- ["SE", "messageForwardOriginChannel"]
+- ["SE", "messageForwardOriginChat"]
+- ["SE", "messageForwardOriginHiddenUser"]
+- ["SE", "messageForwardOriginUser"]
+- !private ["SE", "messageId"]
+- ["SE", "rawValue"]
+- !private ["SE", "senderChatId"]
+- !private ["SE", "senderName"]
+- !private ["SE", "senderUserId"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", "Default_RawValue"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "encode"]
+- !private ["SQ", "findStringSwitchCase"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "messageForwardOriginChannel"]
+- ["SQ", "messageForwardOriginChat"]
+- ["SQ", "messageForwardOriginHiddenUser"]
+- ["SQ", "messageForwardOriginUser"]
+- ["SQ", "rawValue"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "type"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- ["SH", "=="]
+- ["SH", "Default_RawValue"]
+- ["SH", "RawValue"]
+- !private ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "encode"]
+- !private ["SH", "findStringSwitchCase"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "messageForwardOriginChannel"]
+- ["SH", "messageForwardOriginChat"]
+- ["SH", "messageForwardOriginHiddenUser"]
+- ["SH", "messageForwardOriginUser"]
+- ["SH", "rawValue"]
+- ["SH", "stringValue"]
+- !private ["SH", "type"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- ["8TdlibKit20MessageForwardOriginO", "Codable"]
+- ["8TdlibKit20MessageForwardOriginO", "Decoder"]
+- !private ["8TdlibKit20MessageForwardOriginO", "DtoCodingKeys"]
+- ["8TdlibKit20MessageForwardOriginO", "Encoder"]
+- !private ["8TdlibKit20MessageForwardOriginO", "Kind"]
+- ["8TdlibKit20MessageForwardOriginO", "MessageForwardOriginChannel"]
+- ["8TdlibKit20MessageForwardOriginO", "MessageForwardOriginChat"]
+- ["8TdlibKit20MessageForwardOriginO", "MessageForwardOriginHiddenUser"]
+- ["8TdlibKit20MessageForwardOriginO", "MessageForwardOriginUser"]
+- ["8TdlibKit20MessageForwardOriginO", "String"]
+- ["8TdlibKit20MessageForwardOriginO", ""]
+- !private ["8TdlibKit20MessageForwardOriginO", "_findStringSwitchCase"]
+- ["8TdlibKit20MessageForwardOriginO", "encode"]
+- !private ["8TdlibKit20MessageForwardOriginO", "findStringSwitchCase"]
+- ["8TdlibKit20MessageForwardOriginO", "init"]
+- ["8TdlibKit20MessageForwardOriginO", "messageForwardOriginChannel"]
+- ["8TdlibKit20MessageForwardOriginO", "messageForwardOriginChat"]
+- ["8TdlibKit20MessageForwardOriginO", "messageForwardOriginHiddenUser"]
+- ["8TdlibKit20MessageForwardOriginO", "messageForwardOriginUser"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "CodingKeys"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "Int64"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "String"]
+- ["8TdlibKit27MessageForwardOriginChannelV", ""]
+- ["8TdlibKit27MessageForwardOriginChannelV", "authorSignature"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "chatId"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "encode"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "init"]
+- ["8TdlibKit27MessageForwardOriginChannelV", "messageId"]
+- ["8TdlibKit24MessageForwardOriginChatV", "CodingKeys"]
+- ["8TdlibKit24MessageForwardOriginChatV", "Int64"]
+- ["8TdlibKit24MessageForwardOriginChatV", "String"]
+- ["8TdlibKit24MessageForwardOriginChatV", ""]
+- ["8TdlibKit24MessageForwardOriginChatV", "authorSignature"]
+- ["8TdlibKit24MessageForwardOriginChatV", "encode"]
+- ["8TdlibKit24MessageForwardOriginChatV", "init"]
+- ["8TdlibKit24MessageForwardOriginChatV", "senderChatId"]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", "CodingKeys"]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", "String"]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", ""]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", "encode"]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", "init"]
+- ["8TdlibKit30MessageForwardOriginHiddenUserV", "senderName"]
+- ["8TdlibKit24MessageForwardOriginUserV", "CodingKeys"]
+- ["8TdlibKit24MessageForwardOriginUserV", "Int"]
+- ["8TdlibKit24MessageForwardOriginUserV", ""]
+- ["8TdlibKit24MessageForwardOriginUserV", "encode"]
+- ["8TdlibKit24MessageForwardOriginUserV", "init"]
+- ["8TdlibKit24MessageForwardOriginUserV", "senderUserId"]
+- ["SY", "=="]
+- ["SY", "Default_RawValue"]
+- ["SY", "RawValue"]
+- !private ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "encode"]
+- !private ["SY", "findStringSwitchCase"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "messageForwardOriginChannel"]
+- ["SY", "messageForwardOriginChat"]
+- ["SY", "messageForwardOriginHiddenUser"]
+- ["SY", "messageForwardOriginUser"]
+- ["SY", "rawValue"]
+- !private ["SY", "type"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "s9CodingKeyP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- !private "8TdlibKit13DtoCodingKeysO"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "8TdlibKit20MessageForwardOriginO"
+- "8TdlibKit27MessageForwardOriginChannelV"
+- "8TdlibKit24MessageForwardOriginChatV"
+- "8TdlibKit30MessageForwardOriginHiddenUserV"
+- "8TdlibKit24MessageForwardOriginUserV"
+- "SY"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_log.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_macos.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_json_client.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/tdjson_export.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "752744968f4a6fbd19ba57c27f30e59c"

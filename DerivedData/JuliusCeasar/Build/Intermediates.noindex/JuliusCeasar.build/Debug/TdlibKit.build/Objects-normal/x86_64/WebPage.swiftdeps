@@ -1,0 +1,242 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WebPage"
+provides-nominal:
+- "8TdlibKit7WebPageV"
+provides-member:
+- ["8TdlibKit7WebPageV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Animation"
+- "AssignmentPrecedence"
+- "Audio"
+- "Codable"
+- "Document"
+- !private "FloatLiteralType"
+- "FormattedText"
+- "Int"
+- !private "IntegerLiteralType"
+- "Photo"
+- "Sticker"
+- "String"
+- !private "StringLiteralType"
+- "Video"
+- "VideoNote"
+- "VoiceNote"
+- "WebPage"
+- !private "~="
+depends-member:
+- ["8TdlibKit9AnimationV", ""]
+- ["8TdlibKit5AudioV", ""]
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", ""]
+- !private ["Se", "animation"]
+- !private ["Se", "audio"]
+- !private ["Se", "author"]
+- !private ["Se", "description"]
+- !private ["Se", "displayUrl"]
+- !private ["Se", "document"]
+- !private ["Se", "duration"]
+- !private ["Se", "embedHeight"]
+- !private ["Se", "embedType"]
+- !private ["Se", "embedUrl"]
+- !private ["Se", "embedWidth"]
+- ["Se", "encode"]
+- ["Se", "init"]
+- !private ["Se", "instantViewVersion"]
+- !private ["Se", "photo"]
+- !private ["Se", "siteName"]
+- !private ["Se", "sticker"]
+- !private ["Se", "title"]
+- !private ["Se", "type"]
+- !private ["Se", "url"]
+- !private ["Se", "video"]
+- !private ["Se", "videoNote"]
+- !private ["Se", "voiceNote"]
+- !private ["s7DecoderP", "container"]
+- ["8TdlibKit8DocumentV", ""]
+- ["SE", ""]
+- !private ["SE", "animation"]
+- !private ["SE", "audio"]
+- !private ["SE", "author"]
+- !private ["SE", "description"]
+- !private ["SE", "displayUrl"]
+- !private ["SE", "document"]
+- !private ["SE", "duration"]
+- !private ["SE", "embedHeight"]
+- !private ["SE", "embedType"]
+- !private ["SE", "embedUrl"]
+- !private ["SE", "embedWidth"]
+- ["SE", "encode"]
+- ["SE", "init"]
+- !private ["SE", "instantViewVersion"]
+- !private ["SE", "photo"]
+- !private ["SE", "siteName"]
+- !private ["SE", "sticker"]
+- !private ["SE", "title"]
+- !private ["SE", "type"]
+- !private ["SE", "url"]
+- !private ["SE", "video"]
+- !private ["SE", "videoNote"]
+- !private ["SE", "voiceNote"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "stringValue"]
+- ["8TdlibKit13FormattedTextV", ""]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["8TdlibKit5PhotoV", ""]
+- ["8TdlibKit7StickerV", ""]
+- ["8TdlibKit5VideoV", ""]
+- ["8TdlibKit9VideoNoteV", ""]
+- ["8TdlibKit9VoiceNoteV", ""]
+- ["8TdlibKit7WebPageV", "Animation"]
+- ["8TdlibKit7WebPageV", "Audio"]
+- ["8TdlibKit7WebPageV", "CodingKeys"]
+- ["8TdlibKit7WebPageV", "Document"]
+- ["8TdlibKit7WebPageV", "FormattedText"]
+- ["8TdlibKit7WebPageV", "Int"]
+- ["8TdlibKit7WebPageV", "Photo"]
+- ["8TdlibKit7WebPageV", "Sticker"]
+- ["8TdlibKit7WebPageV", "String"]
+- ["8TdlibKit7WebPageV", "Video"]
+- ["8TdlibKit7WebPageV", "VideoNote"]
+- ["8TdlibKit7WebPageV", "VoiceNote"]
+- ["8TdlibKit7WebPageV", ""]
+- ["8TdlibKit7WebPageV", "animation"]
+- ["8TdlibKit7WebPageV", "audio"]
+- ["8TdlibKit7WebPageV", "author"]
+- ["8TdlibKit7WebPageV", "description"]
+- ["8TdlibKit7WebPageV", "displayUrl"]
+- ["8TdlibKit7WebPageV", "document"]
+- ["8TdlibKit7WebPageV", "duration"]
+- ["8TdlibKit7WebPageV", "embedHeight"]
+- ["8TdlibKit7WebPageV", "embedType"]
+- ["8TdlibKit7WebPageV", "embedUrl"]
+- ["8TdlibKit7WebPageV", "embedWidth"]
+- ["8TdlibKit7WebPageV", "encode"]
+- ["8TdlibKit7WebPageV", "init"]
+- ["8TdlibKit7WebPageV", "instantViewVersion"]
+- ["8TdlibKit7WebPageV", "photo"]
+- ["8TdlibKit7WebPageV", "siteName"]
+- ["8TdlibKit7WebPageV", "sticker"]
+- ["8TdlibKit7WebPageV", "title"]
+- ["8TdlibKit7WebPageV", "type"]
+- ["8TdlibKit7WebPageV", "url"]
+- ["8TdlibKit7WebPageV", "video"]
+- ["8TdlibKit7WebPageV", "videoNote"]
+- ["8TdlibKit7WebPageV", "voiceNote"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "8TdlibKit9AnimationV"
+- "8TdlibKit5AudioV"
+- "s9CodingKeyP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "8TdlibKit8DocumentV"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "8TdlibKit13FormattedTextV"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "8TdlibKit5PhotoV"
+- "8TdlibKit7StickerV"
+- "8TdlibKit5VideoV"
+- "8TdlibKit9VideoNoteV"
+- "8TdlibKit9VoiceNoteV"
+- "8TdlibKit7WebPageV"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_log.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_macos.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_json_client.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/tdjson_export.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8e09a95a463a0a4971a6109985b4b7b0"

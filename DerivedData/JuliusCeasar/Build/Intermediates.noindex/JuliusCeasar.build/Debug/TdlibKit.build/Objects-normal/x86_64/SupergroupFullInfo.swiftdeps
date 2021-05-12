@@ -1,0 +1,223 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SupergroupFullInfo"
+provides-nominal:
+- "8TdlibKit18SupergroupFullInfoV"
+provides-member:
+- ["8TdlibKit18SupergroupFullInfoV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "ChatLocation"
+- "ChatPhoto"
+- "Codable"
+- "Double"
+- !private "FloatLiteralType"
+- "Int"
+- "Int64"
+- !private "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- "SupergroupFullInfo"
+- "TdInt64"
+- !private "~="
+depends-member:
+- ["8TdlibKit12ChatLocationV", ""]
+- ["8TdlibKit9ChatPhotoV", ""]
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", ""]
+- !private ["Se", "administratorCount"]
+- !private ["Se", "bannedCount"]
+- !private ["Se", "canGetMembers"]
+- !private ["Se", "canGetStatistics"]
+- !private ["Se", "canSetLocation"]
+- !private ["Se", "canSetStickerSet"]
+- !private ["Se", "canSetUsername"]
+- !private ["Se", "description"]
+- ["Se", "encode"]
+- ["Se", "init"]
+- !private ["Se", "inviteLink"]
+- !private ["Se", "isAllHistoryAvailable"]
+- !private ["Se", "linkedChatId"]
+- !private ["Se", "location"]
+- !private ["Se", "memberCount"]
+- !private ["Se", "photo"]
+- !private ["Se", "restrictedCount"]
+- !private ["Se", "slowModeDelay"]
+- !private ["Se", "slowModeDelayExpiresIn"]
+- !private ["Se", "stickerSetId"]
+- !private ["Se", "upgradedFromBasicGroupId"]
+- !private ["Se", "upgradedFromMaxMessageId"]
+- !private ["s7DecoderP", "container"]
+- ["SE", ""]
+- !private ["SE", "administratorCount"]
+- !private ["SE", "bannedCount"]
+- !private ["SE", "canGetMembers"]
+- !private ["SE", "canGetStatistics"]
+- !private ["SE", "canSetLocation"]
+- !private ["SE", "canSetStickerSet"]
+- !private ["SE", "canSetUsername"]
+- !private ["SE", "description"]
+- ["SE", "encode"]
+- ["SE", "init"]
+- !private ["SE", "inviteLink"]
+- !private ["SE", "isAllHistoryAvailable"]
+- !private ["SE", "linkedChatId"]
+- !private ["SE", "location"]
+- !private ["SE", "memberCount"]
+- !private ["SE", "photo"]
+- !private ["SE", "restrictedCount"]
+- !private ["SE", "slowModeDelay"]
+- !private ["SE", "slowModeDelayExpiresIn"]
+- !private ["SE", "stickerSetId"]
+- !private ["SE", "upgradedFromBasicGroupId"]
+- !private ["SE", "upgradedFromMaxMessageId"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "stringValue"]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["So8NSCodingP", ""]
+- ["8TdlibKit18SupergroupFullInfoV", "Bool"]
+- ["8TdlibKit18SupergroupFullInfoV", "ChatLocation"]
+- ["8TdlibKit18SupergroupFullInfoV", "ChatPhoto"]
+- ["8TdlibKit18SupergroupFullInfoV", "CodingKeys"]
+- ["8TdlibKit18SupergroupFullInfoV", "Double"]
+- ["8TdlibKit18SupergroupFullInfoV", "Int"]
+- ["8TdlibKit18SupergroupFullInfoV", "Int64"]
+- ["8TdlibKit18SupergroupFullInfoV", "String"]
+- ["8TdlibKit18SupergroupFullInfoV", "TdInt64"]
+- ["8TdlibKit18SupergroupFullInfoV", ""]
+- ["8TdlibKit18SupergroupFullInfoV", "administratorCount"]
+- ["8TdlibKit18SupergroupFullInfoV", "bannedCount"]
+- ["8TdlibKit18SupergroupFullInfoV", "canGetMembers"]
+- ["8TdlibKit18SupergroupFullInfoV", "canGetStatistics"]
+- ["8TdlibKit18SupergroupFullInfoV", "canSetLocation"]
+- ["8TdlibKit18SupergroupFullInfoV", "canSetStickerSet"]
+- ["8TdlibKit18SupergroupFullInfoV", "canSetUsername"]
+- ["8TdlibKit18SupergroupFullInfoV", "description"]
+- ["8TdlibKit18SupergroupFullInfoV", "encode"]
+- ["8TdlibKit18SupergroupFullInfoV", "init"]
+- ["8TdlibKit18SupergroupFullInfoV", "inviteLink"]
+- ["8TdlibKit18SupergroupFullInfoV", "isAllHistoryAvailable"]
+- ["8TdlibKit18SupergroupFullInfoV", "linkedChatId"]
+- ["8TdlibKit18SupergroupFullInfoV", "location"]
+- ["8TdlibKit18SupergroupFullInfoV", "memberCount"]
+- ["8TdlibKit18SupergroupFullInfoV", "photo"]
+- ["8TdlibKit18SupergroupFullInfoV", "restrictedCount"]
+- ["8TdlibKit18SupergroupFullInfoV", "slowModeDelay"]
+- ["8TdlibKit18SupergroupFullInfoV", "slowModeDelayExpiresIn"]
+- ["8TdlibKit18SupergroupFullInfoV", "stickerSetId"]
+- ["8TdlibKit18SupergroupFullInfoV", "upgradedFromBasicGroupId"]
+- ["8TdlibKit18SupergroupFullInfoV", "upgradedFromMaxMessageId"]
+- ["8TdlibKit7TdInt64V", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "8TdlibKit12ChatLocationV"
+- "8TdlibKit9ChatPhotoV"
+- "s9CodingKeyP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "So8NSCodingP"
+- "8TdlibKit18SupergroupFullInfoV"
+- "8TdlibKit7TdInt64V"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_log.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_macos.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/td_json_client.h"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Headers/tdjson_export.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/antonkhmv/JuliusCeasar/DerivedData/JuliusCeasar/Build/Products/Debug/TdLib.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "eaec9ef8971cbef4f5dbc7460c3c3253"
