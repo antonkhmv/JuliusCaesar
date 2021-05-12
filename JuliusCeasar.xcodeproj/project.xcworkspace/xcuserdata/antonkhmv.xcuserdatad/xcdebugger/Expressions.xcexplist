@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ConversationService.getMessages(fromMessageId:limit:offset:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HSlideableDivider.drag.getter:HSlideableDivider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "leftWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConversationService.addUser(_:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConversationService.notifyChanged():ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConversationData.init(chatId:):ConversationData.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ConversationService.tryGetUserName(_:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "usrName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in closure #1 in ConversationService.getMessages(fromMessageId:limit:offset:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConversationService.readMessage(_:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chatInfo">
+            </PersistentString>
+            <PersistentString
+               value = "self.messages.first!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ConversationService.getMessagesHelper(fromMessageId:limit:offset:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "dateToString(from:):MainData.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ConversationService.getUser(_:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ConversationService.getUser(_:at:completion:):ConversationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mess">
+            </PersistentString>
+            <PersistentString
+               value = "self.messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatListItem.init(index:):ChatListItem.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
