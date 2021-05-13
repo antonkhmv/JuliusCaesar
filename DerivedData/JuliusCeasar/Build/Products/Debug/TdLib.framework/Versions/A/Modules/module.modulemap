@@ -1,6 +1,0 @@
-framework module TdLib {
-  umbrella header "td_macos.h"
-
-  export *
-  module * { export * }
-}

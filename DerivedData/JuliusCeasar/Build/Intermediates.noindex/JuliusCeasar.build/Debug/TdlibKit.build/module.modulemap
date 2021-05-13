@@ -1,4 +1,0 @@
-framework module TdlibKit {
-  export *
-  module TdlibKit { export * }
-}
